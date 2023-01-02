@@ -2,7 +2,7 @@
 
 Using Minimax, I implemented an AI to play Tic-Tac-Toe optimally.
 
-Starter code was provided for this project, which I completed for Harvard UniversityX's *CS50 Introduction to Artificial Intelligence with Python* course. 
+Starter code was provided for this project, which I completed for Harvard UniversityX's [CS50 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/) course. 
 There are two main files in this project: 
 - *runner.py* contains all of the code to run the graphical interface for the game.
 - *tictactoe.py* contains all of the logic for playing the game.
