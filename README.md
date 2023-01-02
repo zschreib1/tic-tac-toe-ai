@@ -1,6 +1,6 @@
 # tic-tac-toe-ai
 
-Using the **Minimax algorithm**, ***I implemented an AI to play Tic-Tac-Toe optimally**.
+Using the **Minimax algorithm**, **I implemented an AI to play Tic-Tac-Toe optimally**.
 
 Starter code was provided for this project, which I completed in the context of Harvard UniversityX's [CS50 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/) course. 
 
