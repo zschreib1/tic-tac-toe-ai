@@ -10,7 +10,7 @@ There are two main files in this project:
 
 The tic tac toe board is represented as a list of three lists (representing the three rows of the board), where each internal list contains three values that are either X, O, or EMPTY. 
 
-## IMPLEMENTATION
+## Implementation
 I implemented the following functions in *tictactoe.py*:
 - *player*, 
 - *actions*, 
@@ -21,7 +21,7 @@ I implemented the following functions in *tictactoe.py*:
 - *minimax*
 functions.
 
-## SPECIFICATION
+## Specification
 Run **python runner.py** to play against the AI. Since Tic-Tac-Toe is a tie given optimal play by both sides, you should never be able to beat the AI (though if you don’t play optimally as well, it may beat you!)
 
 Visit the [Harvard CS50AI](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/) for more information about the specifications for the project.
