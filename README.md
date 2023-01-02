@@ -12,7 +12,7 @@ The tic tac toe board is represented as a list of three lists (representing the 
 
 ## IMPLEMENTATION
 I implemented the following functions in *tictactoe.py*:
-- *player, 
+- *player*, 
 - *actions*, 
 - *result*, 
 - *winner*, 
