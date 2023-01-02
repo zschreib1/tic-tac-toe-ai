@@ -22,4 +22,4 @@ I implemented the following functions in *tictactoe.py*:
 functions.
 
 ## SPECIFICATION
-Run python runner.py to play against the AI.
+Run python runner.py to play against the AI. Since Tic-Tac-Toe is a tie given optimal play by both sides, you should never be able to beat the AI (though if you don’t play optimally as well, it may beat you!)
