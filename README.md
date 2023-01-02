@@ -2,7 +2,7 @@
 
 Using the **Minimax algorithm**, **I implemented an AI to play Tic-Tac-Toe optimally**.
 
-Starter code was provided for this project, which I completed in the context of Harvard UniversityX's [CS50 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) course. 
+Starter code was provided for this project, which I completed in the context of **Harvard UniversityX**'s **[CS50 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)** course. 
 
 There are two main files in this project: 
 - *runner.py*, which contains all of the code to run the graphical interface for the game.
