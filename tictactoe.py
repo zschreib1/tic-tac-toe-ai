@@ -269,39 +269,3 @@ def minValue(board):
     for action in actions(board):
         v = min(v,maxValue(result(board, action)))
     return v
-    
-
-
-
-
-
-
-
-
-
-
-
-    # Create a set for the optimal actions
-    #optimal_actions = set()
-
-    # For each action in the valid actions, if the resulting board is a terminal board (the game is over), determine the utility of the board
-    #for action in valid_actions:
-    #    resulting_board = result(board, action)
-    #    game_is_over = terminal(resulting_board)
-
-        # If the board is a terminal board, return None
-    #    if game_is_over == True:
-    #        return None
-        #elif utility(resulting_board) >= 0:
-        #        optimal_actions.add(action)
-
-
-
-
-
-
-
-
-
-
-    
