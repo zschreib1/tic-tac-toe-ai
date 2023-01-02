@@ -11,7 +11,7 @@ There are two main files in this project:
 The tic tac toe board is represented as a list of three lists (representing the three rows of the board), where each internal list contains three values that are either X, O, or EMPTY. 
 
 ## IMPLEMENTATION
-*I implemented the following functions in **tictactoe.py**:*
+I implemented the following functions in *tictactoe.py*:
 - *player*, 
 - *actions*, 
 - *result*, 
