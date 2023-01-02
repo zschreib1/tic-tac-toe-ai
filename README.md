@@ -8,7 +8,7 @@ There are two main files in this project:
 - *runner.py*, which contains all of the code to run the graphical interface for the game.
 - *tictactoe.py*, which contains all of the logic for playing the game.
 
-The tic tac toe board is represented as a list of three lists (representing the three rows of the board), where each internal list contains three values that are either X, O, or EMPTY. 
+The Tic-Tac-Toe board is represented as a list of three lists (representing the three rows of the board), where each internal list contains three values that are either X, O, or EMPTY. 
 
 ## Implementation
 I implemented the following functions in *tictactoe.py*:
